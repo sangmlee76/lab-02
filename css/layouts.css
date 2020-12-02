@@ -10,4 +10,7 @@ Classes and IDs can be included here */
 div{
   margin: auto;
   text-align: center;
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
 }

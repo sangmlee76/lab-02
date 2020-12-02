@@ -5,3 +5,8 @@ Classes and descendant selectors should primarily be included here */
 img {
   max-width: 200px;
 }
+
+p {
+  max-width: 200px;
+}
+

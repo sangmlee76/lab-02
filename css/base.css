@@ -5,3 +5,8 @@ Examples include styling of overall font and background color */
 *{
   box-sizing: border-box;
 }
+
+body{
+  max-width: 960px;
+  margin: auto;
+}
