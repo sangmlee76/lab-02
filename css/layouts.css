@@ -7,10 +7,53 @@ Classes and IDs can be included here */
 /************************* Overall ***************************/
 /*************************************************************/
 
-div{
+body{
+  background-color: lightcyan;
+  font-family: 'Texturina', serif;
+}
+
+header{
+  font-family: 'Major Mono Display', monospace;
+  font-size: xx-large;
+  font-weight: bolder;
+  text-align: center;
+  background-color: lightsalmon;
+  padding: 50px;
+}
+
+main{
+  margin-top: 50px;
+}
+
+div#container{
   margin: auto;
   text-align: center;
-  float: left;
   margin-left: 10px;
   margin-right: 10px;
+}
+
+ul{
+  float: left;
+  height: 400px;
+  /* width: 20%; */
+  align-content: center;
+  padding-left: 20px;
+}
+
+footer {
+  clear:both;
+  text-align: center;
+}
+
+@media screen and (max-width: 768px){
+  body{
+    background-color: lightsteelblue;
+  }
+}
+
+@media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 3) {
+
 }

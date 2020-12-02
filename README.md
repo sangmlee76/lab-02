@@ -11,13 +11,15 @@ In labs 2 and 3, you and your partner(s) will be using the provided JSON files t
 + [index.html](https://codefellows.github.io/code-301-guide/curriculum/class-02/lab/starter-code/index.html)
 + [Filter DIVs using a select drop-down menu](https://codepen.io/kaziko/pen/EoOPEQ)
 + Received feedback/help from Alan on the event listener/handler section of the code
++ Updated Feature 2 related codes after in-class code review (Alan, Nick A, and Seid's code); also updated the render function and updated the listener/handler function
 
 ### Reflections and Comments
 + Consider including the answers to your daily journal and submission questions here
 + This is also a good place to reflect on the tools and resources used and learned
 
 ### Updates
-
+2 Dec 20 - Original submission around 7am 
+2 Dec 20 - Updated submission at 1:30 with completed Lab02, including features 1, 2, and 3 (with help from code review  - see reference section)
 
 
 ## [Detailed Assignment](https://canvas.instructure.com/courses/2433455/assignments/18669460#submit)
