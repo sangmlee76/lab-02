@@ -9,6 +9,8 @@ In labs 2 and 3, you and your partner(s) will be using the provided JSON files t
 + submission PR
 + [page-1.json](https://codefellows.github.io/code-301-guide/curriculum/class-02/lab/starter-code/page-1.json)
 + [index.html](https://codefellows.github.io/code-301-guide/curriculum/class-02/lab/starter-code/index.html)
++ [Filter DIVs using a select drop-down menu](https://codepen.io/kaziko/pen/EoOPEQ)
++ Received feedback/help from Alan on the event listener/handler section of the code
 
 ### Reflections and Comments
 + Consider including the answers to your daily journal and submission questions here
