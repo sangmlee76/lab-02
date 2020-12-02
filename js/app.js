@@ -33,7 +33,7 @@ HornedAnimal.prototype.render = function(dropDownSelection = ''){
   }
 }
 
-// TODO: build image filter using drop down menu using an event listener and handler -- ** STUCK ON THIS **
+// build image filter using drop down menu using an event listener and handler -- ** STUCK ON THIS **
 $('.animal-select').on('change', e => {
   $('#container').empty();
   console.log(e.target.value);
